@@ -14,7 +14,7 @@ TensorFlow 2.3.1
 ## 訓練和測試結果
 最佳模型訓練準確度79% 
 
-![image](https://github.com/tddwso/Retina/commit/dc2b281dd158178f185df440b7cbde4b501ba89f)
+![image](https://github.com/tddwso/Retina/blob/main/ACC.PNG)
 
 ROC曲線 (Receiver operating characteristic curve) & AUC (Area Under Curve)
 
