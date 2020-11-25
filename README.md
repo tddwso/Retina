@@ -24,4 +24,4 @@ ROC曲線會以對角線為基準，曲線下的面積(AUC)來判別ROC曲線的
 
 實際測試結果
 
-![image](https://github.com/tddwso/Retina/blob/main/test.PNG)
+![image](https://github.com/tddwso/Retina/blob/main/test1.PNG)
