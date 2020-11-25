@@ -20,7 +20,7 @@ ROC曲線 (Receiver operating characteristic curve) & AUC (Area Under Curve)
 
 ROC曲線會以對角線為基準，曲線下的面積(AUC)來判別ROC曲線的鑑別力，AUC數值的範圍從0到1，數值愈大，代表模型的鑑別力越好。
 
-![image](https://github.com/tddwso/label-identity/blob/main/ROC.PNG)
+![image](https://github.com/tddwso/Retina/blob/main/ROC.PNG)
 
 實際測試結果
 
