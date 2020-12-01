@@ -1,4 +1,4 @@
-# Retina
+# Retina Defect Classification by Deep Learning
 ## 背景介紹:
 此次為分辨視網膜是否正常，影像分為Normal、CNV(脈絡膜新生血管生成)、DME(黃斑部水腫)及Drusen(隱結)等四種。
 ## 預計完成目標:
