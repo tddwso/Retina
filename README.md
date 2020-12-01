@@ -12,7 +12,7 @@ Drusen(隱結): 黃斑部形成黃色的沉積物，稱為「隱結」(視網膜
 ![image](https://github.com/tddwso/Retina-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
 
 ## 預計完成目標:
-以卷積神經網絡(Convolutional Neural Network)學習分辨OK及NG品。
+以卷積神經網絡(Convolutional Neural Network)學習分辨視網膜四種狀況。
 運用Transfer Learning(遷移式學習)，將他人訓練好的(pre-trained model)參數複製過來，當作我們模型參數，
 使用的模型: VGG16，VGG 是英國牛津大學 Visual Geometry Group 的縮寫，主要貢獻是使用更多的隱藏層，大量的圖片訓練，提高準確率至90%。
 ## 資料集:
