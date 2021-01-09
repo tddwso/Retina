@@ -1,12 +1,14 @@
 # Retina Defect Classification by Deep Learning
 ## 背景介紹:
-此次為分辨視網膜是否正常，影像分為Normal、CNV(脈絡膜新生血管生成)、DME(黃斑部水腫)及Drusen(隱結)等四種。
+建構以深度學習分辨視網膜是否正常的模型，學習影像分為Normal(正常)、CNV(脈絡膜新生血管生成)、DME(黃斑部水腫)及Drusen(隱結)等四種。
 
-CNV(脈絡膜新生血管生成): 脈絡膜是眼睛主要的血管結構層，當脈絡膜產生了不正常的新生血管，引起AMD(年齡相關性黃斑部退化)病變，視力障礙的重要因素之一。
+1.Normal(正常):未出現異常的視網膜
 
-DME(黃斑部水腫): 視網膜有豐富的血管，若血糖控制不良，會引起視網膜黃斑部微細血管病變，產生水腫情形。
+2.CNV(脈絡膜新生血管生成): 脈絡膜是眼睛主要的血管結構層，當脈絡膜產生了不正常的新生血管，引起AMD(年齡相關性黃斑部退化)病變，視力障礙的重要因素之一。
 
-Drusen(隱結): 黃斑部形成黃色的沉積物，稱為「隱結」(視網膜上小的黃色小點)。隨著隱結的形成、擴大，患者的視力會受到影響，所見物體變得扭曲或模糊，後期更會造成組織壞死。起初患者的視力只會出現部分的模糊，最終可能完全失明。
+3.DME(黃斑部水腫): 視網膜有豐富的血管，若血糖控制不良，會引起視網膜黃斑部微細血管病變，產生水腫情形。
+
+4.Drusen(隱結): 黃斑部形成黃色的沉積物，稱為「隱結」(視網膜上小的黃色小點)。隨著隱結的形成、擴大，患者的視力會受到影響，所見物體變得扭曲或模糊，後期更會造成組織壞死。起初患者的視力只會出現部分的模糊，最終可能完全失明。
 
 
 ![image](https://github.com/tddwso/Retina-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
@@ -42,6 +44,6 @@ ROC曲線會以對角線為基準，曲線下的面積(AUC)來判別ROC曲線的
 
 Streamlit 是一個開源Python函式庫，可以快速製作Data App。
 
-實作影片
+實作影片(以下為Youtube影片連結)
 [![IMAGE ALT TEXT HERE](https://github.com/tddwso/Retina-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)](https://youtu.be/MMr6gDYNouw)
 
